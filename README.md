@@ -24,4 +24,15 @@ git checkout put_branch_name_here
 ```bash
 git checkout -b put_new_branch_name_here
 ```
+#### Upload all files on the stage for certain folder
+```bash
+git add .
+```
+#### Upload specific files(wasim.txt) on the stage
+```bash
+git add wasim.txt
+```
+
+
+
 
