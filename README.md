@@ -33,6 +33,10 @@ git add .
 git add wasim.txt
 ```
 
+#### To force Git to add the ignored file (application.properties), you can use the -f flag with the git add command, as suggested in the hint: 
+```bash
+git add -f application.properties
+```
 
 
 
