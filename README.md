@@ -3,7 +3,7 @@ Git Commands are listed here
 
 
 
-#### Check Current Branch
+#### Merge Command
 ##### If you want to Merge "dev" branch with "Main" branch:
 ```bash
 git checkout main   [Note: First switch to Main branch]
