@@ -1,10 +1,21 @@
 # Git-Commands
 Git Commands are listed here
 
+
+
+#### Check Current Branch
+##### If you want to Merge "dev" branch with "Main" branch:
+```bash
+git checkout main   [Note: First switch to Main branch]
+
+git merge dev_branch 
+```
+
 #### Check Current Branch
 ```bash
 git branch
 ```
+
 
 #### Check Git Current status
 ```bash
