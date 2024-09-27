@@ -2,6 +2,12 @@
 Git Commands are listed here
 
 
+#### Reset to the Last Commit
+##### If you want to discard changes that are not yet committed:
+```bash
+git reset --hard HEAD
+
+```
 
 #### Merge Command
 ##### If you want to Merge "dev" branch with "Main" branch:
