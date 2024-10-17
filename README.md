@@ -2,6 +2,14 @@
 Git Commands are listed here
 
 
+#### To cherry-pick a specific commit in Git
+##### To cherry-pick a specific commit in Git
+Just go to the target branch first then,
+```bash
+git checkout <target-branch>
+git cherry-pick dfa266d //here 'dfa266d' is commit hash. 
+```
+
 #### Reset to the Last Commit
 ##### If you want to discard changes that are not yet committed:
 ```bash
