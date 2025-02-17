@@ -2,6 +2,13 @@
 Git Commands are listed here
 
 
+#### To delete a local branch from a Git repository using the terminal
+```bash
+git branch -d branch_name;
+```
+
+
+
 #### To cherry-pick a specific commit in Git
 ##### To cherry-pick a specific commit in Git
 Just go to the target branch first then,
