@@ -2,6 +2,13 @@
 Git Commands are listed here
 
 
+#### To cherry-pick a commit
+```bash
+git cherry-pick #commit_hash
+```
+
+
+
 #### To delete a local branch from a Git repository using the terminal
 ```bash
 git branch -d branch_name;
