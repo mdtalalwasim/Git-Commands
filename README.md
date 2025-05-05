@@ -2,6 +2,12 @@
 Git Commands are listed here
 
 
+#### To git-stash a commit
+```bash
+git stash
+git stash pop
+```
+
 #### To cherry-pick a commit
 ```bash
 git cherry-pick #commit_hash
